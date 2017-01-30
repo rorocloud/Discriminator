@@ -10,4 +10,4 @@ Projet réalisé à Nice en 2016, dans le cadre du module de programmation appli
 - Résolution des nuages de points
 
 ### Avertissement
-Si vous êtes étudiant à Epitech, servez vous des concepts utilisés, pas du code, ou la moulinette de triche vous trouvera et vous mettra un -42.
+Si vous êtes étudiant Epitech, servez vous du concept, pas du code, ou la moulinette de triche vous mettra -42.

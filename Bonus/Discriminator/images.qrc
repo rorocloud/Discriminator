@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/About.png</file>
+        <file>images/cloud.png</file>
+        <file>images/Quit.png</file>
+        <file>images/cloudy.png</file>
+        <file>images/speaker_mute.png</file>
+        <file>images/speaker_up.png</file>
+        <file>images/wall.jpg</file>
+    </qresource>
+</RCC>
